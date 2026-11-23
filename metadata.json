@@ -1,0 +1,6 @@
+{
+  "name": "Dent Propel",
+  "description": "Discover Dent Propel, a connected dental practice growth system combining social media management, digital marketing, lead generation, appointment follow-up, and intelligent automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

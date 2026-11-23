@@ -1,0 +1,2109 @@
+# DENT PROPEL — THE ULTIMATE WEB3-INSPIRED SALES FUNNEL WEBSITE
+
+## MASTER DESIGN, DEVELOPMENT & CONVERSION PROMPT FOR LOVABLE
+
+### PROJECT CATEGORY
+
+Premium Web3-Inspired Website + Dental Marketing Agency + Healthcare SaaS Design + High-Converting Sales Funnel + AI Automation.
+
+### PROJECT NAME
+
+**DENT PROPEL**
+
+### OFFICIAL TAGLINE
+
+**Driving Dental Growth.**
+
+### PRIMARY OBJECTIVE
+
+Create an exceptionally sophisticated, futuristic, visually captivating, conversion-optimized, Web3-inspired website for **Dent Propel**, a premium dental marketing, patient lead generation, and AI automation agency.
+
+This should be an exceptionally well-crafted digital experience—not an ordinary marketing agency template.
+
+The website should look like a premium international technology and consulting brand, combining the visual qualities of innovative Web3 platforms, elite SaaS products, luxury digital agencies, and trusted healthcare businesses.
+
+Make the website visually distinctive, extremely polished, elegant, immersive, interactive, and memorable.
+
+**MOST IMPORTANT: This is a Web3-INSPIRED visual design. It is NOT a cryptocurrency, NFT, blockchain, or wallet-connect website.**
+
+Use the best modern Web3 visual design principles without introducing irrelevant crypto functionality.
+
+The website must retain the credibility and professionalism expected by dental doctors and clinic owners.
+
+---
+
+# 1. YOUR EXPERT ROLE
+
+Act simultaneously as:
+
+- Award-winning Web3 Website Designer
+- Senior Creative Director
+- Premium UI/UX Designer
+- Healthcare SaaS Product Designer
+- Conversion Rate Optimization Expert
+- Dental Practice Marketing Strategist
+- Advanced Motion Design Specialist
+- Frontend Architecture Engineer
+- React and TypeScript Developer
+- Senior Full-Stack Developer
+
+Think beyond ordinary website design.
+
+Create an exceptionally professional, uniquely art-directed digital experience that demonstrates thoughtful visual hierarchy, refined interaction design, and a distinctive brand identity.
+
+Do not simply assemble a collection of generic Tailwind cards.
+
+Every section must have a clear design purpose.
+
+Every visual element should strengthen the Dent Propel brand.
+
+Every animation should contribute to the experience rather than distract from the content.
+
+Every conversion element must be intuitive and functional.
+
+---
+
+# 2. BRAND IDENTITY — DENT PROPEL
+
+## Official Brand
+
+**DENT PROPEL**
+
+**Tagline:** Driving Dental Growth.
+
+**Industry:** Dental Practice Marketing and Growth Systems
+
+**Primary Audience:** Dentists, dental clinic owners, dental practice managers, and dental business decision-makers.
+
+**Primary Market:** Pakistan
+
+**Future Expansion:** International dental practice markets
+
+## What Dent Propel Actually Offers
+
+Dent Propel does not simply sell social media posts.
+
+Dent Propel offers a connected dental practice growth system combining:
+
+1. Social Media Management
+2. Dental Marketing and Paid Advertising
+3. Patient Lead Generation
+4. Lead Capture and Inquiry Management
+5. AI Automation and Follow-Up Workflows
+6. Appointment Journey Optimization
+7. Reporting and Performance Monitoring
+
+## Core Business Philosophy
+
+"We don't just manage your social media. We connect your marketing, inquiries, and follow-up processes into one structured growth system."
+
+## Brand Personality
+
+The brand should feel:
+
+- Innovative
+- Premium
+- Technology-driven
+- Trustworthy
+- Professionally credible
+- Intelligent
+- Modern
+- Highly organized
+- Growth-focused
+- Confident without being aggressive
+
+## Important Distinction
+
+The website is designed to attract dental professionals as business clients.
+
+It is NOT designed to attract patients for direct dental treatment.
+
+Avoid making it look like a dental hospital, dental treatment clinic, or patient booking website.
+
+Use language that speaks directly to practice owners and dental doctors.
+
+---
+
+# 3. THE THREE-STEP SALES FUNNEL
+
+The entire website consists of one integrated funnel.
+
+### STEP 01 — LANDING PAGE
+
+Route: `/`
+
+Objective: Attract dentists, explain the growth system, establish credibility, present the offer, and move qualified visitors toward checkout.
+
+### STEP 02 — CHECKOUT PAGE
+
+Route: `/checkout`
+
+Objective: Capture the clinic's information, clearly explain the purchase, and provide a secure payment process once a genuine payment gateway is configured.
+
+### STEP 03 — THANK YOU PAGE
+
+Route: `/thank-you`
+
+Objective: Display verified payment confirmation, communicate onboarding steps, and help the client begin the Dent Propel onboarding process.
+
+All three pages must share one consistent visual identity.
+
+Use connected navigation and persistent order state.
+
+The complete journey should feel like one seamless premium software experience.
+
+Do not create visually unrelated pages.
+
+---
+
+# 4. PRIMARY DESIGN DIRECTION — WEB3 INSPIRED
+
+## Overall Design Concept
+
+Create a striking visual identity inspired by:
+
+- Next-generation Web3 interfaces
+- Futuristic SaaS websites
+- Premium digital product platforms
+- Immersive technology landing pages
+- High-end healthcare consulting brands
+- Modern AI automation products
+- Elegant editorial website layouts
+
+## Visual Language
+
+The design should feature:
+
+- Sophisticated dark surfaces
+- Clean and spacious light surfaces
+- Subtle illuminated borders
+- Layered glassmorphism
+- Premium gradient lighting
+- Soft ambient glows
+- Floating interface panels
+- 3D-inspired visual depth
+- Intelligent dashboard illustrations
+- Carefully constructed geometric backgrounds
+- Thin connected network lines
+- Modern bento-grid layouts
+- Smooth micro-interactions
+- Subtle gradient mesh backgrounds
+- Elegant typography
+- Refined scroll storytelling
+
+## The Creative Principle
+
+**Futuristic enough to impress a technology founder. Professional enough to earn the trust of a dental practice owner.**
+
+Do not create a cheap neon website.
+
+Do not use random floating objects purely to fill space.
+
+Avoid excessive purple and pink cyberpunk aesthetics.
+
+Avoid generic blockchain symbols.
+
+Avoid crypto coins, tokens, NFTs, wallets, and financial trading visuals.
+
+The futuristic elements should visually represent:
+
+- Connectivity
+- Growth
+- Automation
+- Marketing
+- Patient inquiry flow
+- Appointment processes
+- System integration
+- Data visibility
+
+Use these concepts to create a distinctive Dent Propel design language.
+
+---
+
+# 5. THREE COMPLETE APPEARANCE MODES
+
+Implement three selectable appearance settings:
+
+**1. Light**
+
+**2. Dark**
+
+**3. System / Auto**
+
+All three settings must work across every page and component.
+
+## Theme Switching
+
+Place a beautiful theme selector in the top navigation.
+
+The selector should use clean icons for sun, moon, and system preference.
+
+On interaction, open a small premium floating menu or segmented selector displaying:
+
+Light / Dark / System.
+
+Use a smooth but quick color transition.
+
+Save the selected theme locally.
+
+The System setting must automatically respond to the user's operating system preference and subsequent preference changes.
+
+Prevent incorrect-theme flashing during initial page load.
+
+The selected theme must remain consistent when moving from landing page to checkout and thank-you pages.
+
+## A. LIGHT THEME — PREMIUM MEDICAL FUTURISM
+
+Create a sophisticated bright theme with:
+
+Background: `#F6F9FC`
+
+Primary Surface: `#FFFFFF`
+
+Primary Text: `#102338`
+
+Secondary Text: `#46596A`
+
+Primary Accent: `#087D94`
+
+Secondary Accent: `#13AFA8`
+
+Soft Aqua: `#EAF8FA`
+
+Border Color: `#DCE7EE`
+
+Card Shadows: Subtle navy-tinted shadows
+
+Light theme should communicate clarity, healthcare credibility, organization, and calm sophistication.
+
+Use generous white space and clean card boundaries.
+
+Create elegant off-white sections alternating with pure white content areas.
+
+Introduce subtle turquoise gradient glows only where they add visual quality.
+
+## B. DARK THEME — PREMIUM WEB3 FUTURISM
+
+Create a deeply sophisticated immersive dark theme.
+
+Main Background: `#080E1D`
+
+Secondary Background: `#101B2B`
+
+Card Surface: `#152337`
+
+Elevated Surface: `#1B2C42`
+
+Primary Text: `#F5FAFF`
+
+Secondary Text: `#B8C8D8`
+
+Primary Accent: `#22D3D5`
+
+Secondary Accent: `#43B5EC`
+
+Gradient Accent: `#22D3D5` to `#6476ED`
+
+Border: `#304258`
+
+Use deep navy rather than pure black.
+
+Create soft atmospheric glows behind selected elements.
+
+Use elegant illuminated card borders and premium glass effects.
+
+The dark theme should look futuristic without compromising readability.
+
+## C. SYSTEM / AUTO THEME
+
+Match the operating system's light or dark preference.
+
+This is not simply a third decorative color scheme.
+
+It must automatically choose the correct fully styled theme.
+
+## Shared Theme Requirements
+
+Never use invisible or low-contrast text.
+
+Maintain at least WCAG AA color contrast for standard text and essential interface elements.
+
+All buttons, cards, headings, form labels, navigation links, hover states, errors, charts, and dividers must adapt correctly.
+
+Ensure the logo is visible in both light and dark modes.
+
+Use uploaded official Dent Propel brand assets when available.
+
+If the logo is not provided, create a restrained DP monogram or typography-based temporary identity that can be replaced later.
+
+---
+
+# 6. TYPOGRAPHY — EXTREMELY IMPORTANT
+
+The website must have bold, visible, readable, highly professional typography.
+
+The text should not look tiny.
+
+Do not sacrifice clarity for minimalist aesthetics.
+
+## Fonts
+
+Primary Display Font:
+
+**Sora**
+
+Alternative:
+
+**Plus Jakarta Sans**
+
+Body Font:
+
+**Inter**
+
+Technical Micro Labels:
+
+**IBM Plex Mono**, used sparingly.
+
+## Heading Scale
+
+Desktop Hero:
+
+60–76px with responsive scaling.
+
+Tablet Hero:
+
+46–58px.
+
+Mobile Hero:
+
+36–44px.
+
+Main Section Titles:
+
+40–52px desktop.
+
+Subsection Titles:
+
+26–32px.
+
+Card Titles:
+
+20–24px.
+
+Body Copy:
+
+17–19px desktop.
+
+Mobile Body Copy:
+
+16–18px.
+
+Buttons:
+
+15–17px.
+
+Supporting Labels:
+
+13–15px.
+
+## Typography Rules
+
+- Use strong font contrast.
+- Keep headlines visually bold.
+- Use short, readable paragraphs.
+- Ensure headings wrap beautifully.
+- Avoid overly narrow text columns.
+- Avoid giant headings that break mobile layouts.
+- Keep paragraph line-height comfortable.
+- Never put important text directly over busy particles or gradients.
+- Use generous spacing between headings and descriptions.
+- Make information understandable in a quick scan.
+- Use gradient text selectively, never across long paragraphs.
+
+Use a carefully balanced typography system.
+
+A dentist should immediately understand what Dent Propel offers without struggling to read or interpret the website.
+
+---
+
+# 7. DESIGN SYSTEM AND LAYOUT
+
+## Desktop Layout
+
+Use a polished 12-column layout system.
+
+Maximum content width:
+
+Approximately 1240–1320px.
+
+Section spacing:
+
+Approximately 100–140px on desktop, adjusted appropriately for content.
+
+## Mobile Layout
+
+Use flexible single-column layouts.
+
+Preserve visual hierarchy without shrinking text excessively.
+
+Avoid excessive scrolling created by decorative empty space.
+
+## Cards
+
+Use a consistent combination of:
+
+- Dark translucent cards
+- Elegant light cards
+- Premium border gradients
+- Subtle glass panels
+- Refined shadows
+- Soft corner radii
+- Minimal icon accents
+
+Suggested border radius:
+
+16–24px for primary cards.
+
+Avoid making every element equally rounded.
+
+## Buttons
+
+Create premium Web3-inspired CTA buttons.
+
+Primary buttons:
+
+- Gradient or solid medical-teal treatment depending on theme
+- High-contrast text
+- Strong visual prominence
+- Gentle glow on hover
+- Subtle upward movement
+- Smooth transition
+
+Secondary buttons:
+
+- Elegant transparent or outlined style
+- Clear contrast
+- Subtle hover background
+
+Use restrained arrow icons to communicate navigation.
+
+Buttons must never become invisible in light mode.
+
+## Sections
+
+Alternate between:
+
+- Premium hero sections
+- Bright editorial content
+- Immersive dark showcases
+- Bento-grid features
+- Diagram-based explanations
+- Spacious conversion sections
+
+Maintain coherent styling throughout.
+
+---
+
+# 8. WEBSITE MOTION AND INTERACTIONS
+
+Create a distinctive, premium interactive experience.
+
+Use Framer Motion or a compatible supported animation solution where appropriate.
+
+## Recommended Motion Features
+
+### 1. Ambient Hero Glow
+
+Create a soft, animated background glow.
+
+Movement should be extremely slow and elegant.
+
+### 2. Floating Dashboard Panels
+
+Create subtle depth motion on the hero's dashboard visualization.
+
+### 3. Scroll Reveal
+
+Reveal section headings and cards smoothly as they enter the viewport.
+
+Use short fade-and-translate transitions.
+
+### 4. Hover Interactions
+
+Cards should respond to hover with:
+
+- Minimal elevation
+- Border illumination
+- Soft glow
+- Subtle gradient movement
+
+### 5. Connection Line Animation
+
+Use animated connections between marketing, leads, automation, and bookings.
+
+### 6. Animated Buttons
+
+Implement refined hover and press states.
+
+### 7. Theme Transitions
+
+Switch between themes smoothly without layout jumps.
+
+### 8. Section Navigation
+
+Use smooth scrolling with proper offsets for the sticky header.
+
+### 9. Interactive Growth System
+
+Visitors should be able to explore system stages by hovering or tapping.
+
+### 10. Interactive Dashboard Preview
+
+Provide carefully labeled example workflow data and interactive tabs showing the types of processes Dent Propel can coordinate.
+
+## Performance Requirements
+
+Use CSS and SVG wherever possible for lightweight effects.
+
+Use heavier 3D/WebGL only if performance remains excellent and it produces a clearly better result.
+
+Do not introduce a heavy 3D dependency merely for decoration.
+
+Avoid animation lag.
+
+Avoid scroll hijacking.
+
+Do not use full-screen loaders that delay access to content.
+
+Respect reduced-motion preferences.
+
+On mobile, reduce the number of decorative elements.
+
+The result must feel smooth and expensive rather than overanimated.
+
+---
+
+# 9. LANDING PAGE — COMPLETE DESIGN AND CONTENT
+
+Route: `/`
+
+Build the landing page as an immersive, premium Web3-inspired business experience.
+
+## SECTION 01 — PREMIUM NAVIGATION
+
+Create a floating, glassmorphism-inspired sticky navigation bar.
+
+The bar should have:
+
+Left:
+
+Dent Propel Logo
+
+Center:
+
+- The System
+- Solutions
+- How It Works
+- Our Offer
+- FAQs
+
+Right:
+
+Theme Selector
+
+Primary CTA:
+
+**"Get Started"**
+
+Use a translucent background with subtle blur.
+
+In dark mode, create an elegant illuminated edge.
+
+In light mode, use a white translucent surface with a clean border.
+
+Make the logo sufficiently visible.
+
+On mobile, show a premium hamburger navigation with theme controls.
+
+Do not fill the navigation with unnecessary links.
+
+---
+
+## SECTION 02 — CINEMATIC WEB3 HERO
+
+This section must be the strongest visual part of the entire website.
+
+It should create an immediate premium impression while clearly explaining the offer.
+
+### Hero Layout
+
+Use a responsive two-column composition.
+
+Left side:
+
+Powerful headline, description, CTAs.
+
+Right side:
+
+A sophisticated Web3-style connected dental growth dashboard visualization.
+
+### Eyebrow Text
+
+"THE CONNECTED GROWTH SYSTEM FOR DENTAL PRACTICES"
+
+### Main Hero Headline
+
+**"More Than Marketing. A Smarter Way to Grow Your Dental Practice."**
+
+Highlight "Smarter Way to Grow" with a carefully controlled teal-to-blue gradient.
+
+Ensure the highlight remains readable in both themes.
+
+### Supporting Text
+
+"Meet Dent Propel—a connected growth solution that brings together dental marketing, lead generation, inquiry management, and intelligent follow-up to help your clinic build a more organized path from interest to appointment."
+
+### Primary CTA
+
+**"Build My Growth System"**
+
+### Secondary CTA
+
+**"See How It Works"**
+
+### Supporting Microcopy
+
+"Designed for dentists. Built around your practice."
+
+Do not invent client numbers, certifications, testimonials, or guaranteed results.
+
+### Hero Visual — THE DENT PROPEL GROWTH NETWORK
+
+Create a highly polished, custom 3D-inspired dashboard composition.
+
+The visual should feature:
+
+One central glowing node:
+
+**DENT PROPEL**
+
+Connected to five elegant floating process nodes:
+
+1. Marketing
+2. Patient Inquiries
+3. Lead Management
+4. Automated Follow-Up
+5. Appointments
+
+Use thin animated connection lines.
+
+Add subtle depth and carefully controlled ambient illumination.
+
+Place floating glass-style dashboard cards around the network.
+
+Example UI card:
+
+"Inquiry Received"
+
+Another:
+
+"Follow-Up Scheduled"
+
+Another:
+
+"Appointment Request"
+
+Another:
+
+"Campaign Overview"
+
+Display illustrative sample data without implying these are real client statistics.
+
+Use beautiful alignment, refined shadows, and restrained holographic accents.
+
+The illustration should resemble a premium product visualization, not a random collection of generic charts.
+
+### Hero Background
+
+Use:
+
+- Deep blue gradient atmosphere
+- Soft radial lighting
+- Extremely subtle dotted grid
+- A few controlled floating particles
+- Minimal curved connection lines
+- Sophisticated negative space
+
+Keep all important text on a calm, readable surface.
+
+---
+
+## SECTION 03 — THE REAL PROBLEM
+
+### Heading
+
+**"Your Clinic Doesn't Need More Random Marketing. It Needs a System."**
+
+### Supporting Text
+
+"Marketing alone is only one part of practice growth. The real challenge is connecting visibility, patient inquiries, follow-up, and appointments."
+
+Create four premium glass or bento cards.
+
+### Card 01
+
+**Inconsistent Patient Inquiries**
+
+"Social media activity alone doesn't guarantee a consistent flow of relevant patient inquiries."
+
+### Card 02
+
+**Missed Follow-Up Opportunities**
+
+"When inquiries aren't tracked and handled consistently, potential appointment opportunities can be missed."
+
+### Card 03
+
+**Disconnected Marketing Tools**
+
+"Ads, social media, WhatsApp, and booking records often operate independently."
+
+### Card 04
+
+**Unclear Marketing Performance**
+
+"Without connected reporting, it can be difficult to understand how marketing activity contributes to booked appointments."
+
+Use clear, custom line icons.
+
+Each card should have a subtle color accent.
+
+Animate the border and elevation slightly on hover.
+
+### Transition Statement
+
+**"More activity isn't the answer. A better-connected process is."**
+
+Create an elegant transition into the next section.
+
+---
+
+## SECTION 04 — INTRODUCING THE DENT PROPEL GROWTH SYSTEM
+
+This should be an immersive product showcase.
+
+### Heading
+
+**"One Connected Growth System. Designed Around Your Dental Practice."**
+
+### Description
+
+"From helping patients discover your clinic to coordinating inquiries and follow-ups, Dent Propel brings key growth activities into a structured process."
+
+### Visual Design
+
+Create a beautiful futuristic workflow visualization.
+
+Five stages:
+
+**01 — ATTRACT**
+
+Reach relevant audiences through social media content and targeted marketing.
+
+**02 — CAPTURE**
+
+Make inquiries easier to collect through forms, landing pages, and integrated communication channels.
+
+**03 — FOLLOW UP**
+
+Organize lead records and support timely replies using automation and staff notifications.
+
+**04 — BOOK**
+
+Help reception teams coordinate appointment requests and confirmations.
+
+**05 — OPTIMIZE**
+
+Review lead sources, inquiry activity, campaign performance, and booking-related metrics.
+
+### Interaction
+
+Each workflow stage should be interactive.
+
+When a user clicks or hovers on a stage:
+
+- Highlight the selected node.
+- Reveal its description.
+- Illuminate relevant connection lines.
+- Update the adjacent illustration.
+- Maintain readable text and accessible keyboard interaction.
+
+Create a vertical mobile variation.
+
+This section should visually demonstrate the meaning of a connected business system.
+
+---
+
+## SECTION 05 — WHAT'S INCLUDED
+
+### Heading
+
+**"Everything Your Practice Needs to Build a Connected Growth Process."**
+
+### Description
+
+"Specialized services designed to work together—not operate as disconnected tasks."
+
+Create an exceptionally polished bento-grid layout.
+
+Use different card sizes to create visual rhythm.
+
+### Bento Card 01 — Social Media Management
+
+Heading:
+
+**"A Stronger Digital Presence."**
+
+Description:
+
+"Build a consistent, professional online presence that reflects your practice and supports your marketing goals."
+
+Features:
+
+- Content planning
+- Dental-focused creatives
+- Educational posts and reels
+- Brand consistency
+- Publishing management
+- Performance reviews
+
+Visual:
+
+Elegant social media content preview cards.
+
+### Bento Card 02 — Digital Marketing & Paid Ads
+
+Heading:
+
+**"Reach the Right Audience."**
+
+Description:
+
+"Develop targeted campaigns and conversion-focused marketing experiences for relevant local audiences."
+
+Features:
+
+- Campaign strategy
+- Meta advertising
+- Audience targeting
+- Campaign optimization
+- Landing page improvement
+- Performance tracking
+
+Visual:
+
+Premium campaign workflow panel with illustrative data.
+
+### Bento Card 03 — Lead Generation
+
+Heading:
+
+**"Turn Interest Into Organized Inquiries."**
+
+Description:
+
+"Capture and organize potential patient inquiries through clear digital journeys."
+
+Features:
+
+- Inquiry forms
+- Lead tracking
+- Conversion-focused landing pages
+- Source attribution
+- CRM integration
+- Reception handoff
+
+Visual:
+
+A lead pipeline illustration.
+
+### Bento Card 04 — AI Automation
+
+Heading:
+
+**"Smarter Follow-Ups. Less Repetitive Work."**
+
+Description:
+
+"Use practical automation to support reception teams, inquiry handling, and appointment-related communication."
+
+Features:
+
+- Automated acknowledgment
+- Follow-up workflows
+- Staff notifications
+- Reminder sequences
+- Lead status updates
+- Reporting integrations
+
+Visual:
+
+A futuristic automation flow diagram.
+
+### Bento Card 05 — Appointment Optimization
+
+Heading:
+
+**"A More Organized Booking Journey."**
+
+Description:
+
+"Coordinate patient inquiry and appointment-request workflows with clearer internal processes."
+
+### Bento Card 06 — Reporting & Insights
+
+Heading:
+
+**"Understand What's Working."**
+
+Description:
+
+"Bring campaign activity, inquiry data, and operational indicators into more understandable reports."
+
+### Design Requirements
+
+Use:
+
+- Premium bento layouts
+- Beautiful visual mockups
+- Consistent typography
+- Controlled cyan and teal glows
+- Layered depth
+- Refined hover states
+
+All mockup performance metrics must be clearly labeled illustrative.
+
+Actual package inclusions must be controlled by the configured offer.
+
+Do not imply that every listed component is automatically included in every package.
+
+---
+
+## SECTION 06 — BEFORE VS AFTER
+
+### Heading
+
+**"From Disconnected Marketing to a Connected Growth Process."**
+
+Create a beautiful interactive side-by-side comparison.
+
+### LEFT — WITHOUT A CONNECTED SYSTEM
+
+Visual style:
+
+Muted, less organized, but still professional.
+
+Show:
+
+- Scattered inquiries
+- Separate marketing channels
+- Manual follow-up without tracking
+- Limited campaign visibility
+- Disconnected booking information
+
+### RIGHT — WITH DENT PROPEL
+
+Visual style:
+
+Premium illuminated structure with clear organization.
+
+Show:
+
+- Structured inquiry capture
+- Organized lead records
+- Automated workflow support
+- Appointment handoff processes
+- Consolidated reporting
+
+Use elegant connecting lines to communicate the difference.
+
+Do not show invented performance improvements or guaranteed financial gains.
+
+On mobile, show stacked cards with clear labels.
+
+---
+
+## SECTION 07 — INTERACTIVE SYSTEM SHOWCASE
+
+### Heading
+
+**"See How a Connected Dental Growth Workflow Can Operate."**
+
+Create an advanced-looking, high-end product illustration.
+
+It should resemble a modern SaaS operations dashboard.
+
+Include tabs:
+
+- Overview
+- Marketing
+- Leads
+- Follow-Ups
+- Appointments
+
+### Overview
+
+Show a sample journey from marketing activity to inquiry and booking status.
+
+### Marketing
+
+Display illustrative campaign categories and source tracking.
+
+### Leads
+
+Display a sample inquiry list with stages such as:
+
+New Inquiry
+
+Contacted
+
+Follow-Up Pending
+
+Appointment Requested
+
+Closed
+
+### Follow-Ups
+
+Display an example timeline of notification and response workflows.
+
+### Appointments
+
+Display sample appointment-request statuses.
+
+### Critical Requirement
+
+This is a conceptual illustration of potential workflows.
+
+Do not falsely present the demo as an existing live Dent Propel software product.
+
+Clearly label sample data as illustrative.
+
+The dashboard should be visually impressive, but every feature description must remain accurate.
+
+---
+
+## SECTION 08 — WHO DENT PROPEL IS FOR
+
+### Heading
+
+**"Built for Dentists Who Want a More Structured Way to Grow."**
+
+Create three beautiful premium audience cards.
+
+### Independent Dental Clinics
+
+"For practices seeking professional marketing and more organized inquiry management."
+
+### Established Dental Practices
+
+"For clinics ready to coordinate campaigns, follow-up, and marketing performance more effectively."
+
+### Multi-Dentist Practices
+
+"For growing practices that need clearer processes across multiple staff members and inquiry channels."
+
+Add a short note:
+
+"The right implementation depends on your practice size, existing systems, available capacity, and goals."
+
+Use dental professional imagery without excessive generic stock photography.
+
+---
+
+## SECTION 09 — HOW DENT PROPEL WORKS
+
+### Heading
+
+**"From Clinic Discovery to a Connected Growth Process."**
+
+Create a premium four-stage timeline.
+
+Use a horizontal timeline on desktop and a vertical stepper on mobile.
+
+### 01 — Discover
+
+"We understand your practice, key services, marketing activity, inquiry handling, and growth priorities."
+
+### 02 — Strategize
+
+"We plan the connected marketing, lead capture, follow-up, and measurement processes appropriate to your clinic."
+
+### 03 — Implement
+
+"We configure the agreed marketing assets, systems, and workflows."
+
+### 04 — Optimize
+
+"We monitor performance indicators and improve the system based on available data and operational feedback."
+
+Add subtle animated progress lines.
+
+Keep descriptions concise and highly readable.
+
+Do not invent fixed implementation timelines.
+
+---
+
+## SECTION 10 — WHY DENT PROPEL
+
+### Heading
+
+**"A Growth Partner Focused on the Whole Process."**
+
+Explain the value of Dent Propel without making unsupported claims.
+
+Create four professional value pillars:
+
+**Dental-Focused Approach**
+
+Marketing and workflow planning designed around dental practice operations.
+
+**Connected Systems**
+
+A structured approach rather than unrelated services.
+
+**Practical Automation**
+
+Automation designed to support human staff rather than replace professional judgment.
+
+**Clearer Visibility**
+
+Reporting that helps clinics understand important stages of the marketing and booking journey.
+
+### Proof Requirements
+
+If authentic testimonials, case studies, verified client logos, or real metrics have been provided, use them with permission.
+
+Otherwise, do not invent them.
+
+Create a strong trust section based on transparent processes, accountable reporting, and clear service scope.
+
+The component design should allow real case studies to be added later.
+
+---
+
+## SECTION 11 — THE CORE OFFER
+
+This is one of the most important sections for conversion.
+
+### Heading
+
+**"Your Complete Dental Practice Growth System."**
+
+### Subheading
+
+"Stop investing in disconnected marketing activities. Bring the essential pieces together."
+
+### Main Offer Name
+
+**DENT PROPEL GROWTH SYSTEM**
+
+Create one exceptional flagship offer card.
+
+Make this the visual centerpiece of the lower landing page.
+
+### Offer Components
+
+Present the agreed scope of:
+
+- Social Media Strategy
+- Social Media Management
+- Digital Marketing
+- Paid Campaign Management
+- Lead Capture Workflows
+- Lead Management
+- AI Automation
+- Appointment Follow-Up Support
+- Performance Reporting
+
+Provide configurable toggles or package settings to show which deliverables are genuinely included.
+
+### Offer Card Visual Style
+
+Use:
+
+- Premium dark glass surface
+- Fine illuminated teal border
+- Subtle ambient glow
+- Highly readable white typography
+- Clear feature groups
+- Generous internal spacing
+- Strong primary CTA
+- Optional elegant gold accent
+
+In light mode, use a high-contrast white card with a navy title and teal accent.
+
+### Pricing
+
+Pricing must come from central business configuration.
+
+Support:
+
+- Setup fee
+- Monthly management fee
+- Billing interval
+- Currency
+- Taxes
+- Add-ons
+- Third-party software fees
+- Paid advertising budget
+- Cancellation terms
+
+Clearly distinguish agency fees from advertising spend.
+
+Never display fabricated prices or invented discounts.
+
+If prices are not configured, display an honest non-transactional preview state and disable purchasing.
+
+### CTA
+
+**"Get My Dent Propel Growth System"**
+
+Below CTA:
+
+"Review your package and payment details before completing checkout."
+
+Clicking the CTA should open the checkout with the selected offer.
+
+---
+
+## SECTION 12 — FAQ SECTION
+
+### Heading
+
+**"Questions Dental Practice Owners Usually Ask."**
+
+Create an exceptionally clean premium accordion with large readable text.
+
+Questions:
+
+1. What makes Dent Propel different from a traditional social media agency?
+2. Is this suitable for an independent dental clinic?
+3. Do I need an existing marketing team?
+4. Is advertising spend included?
+5. Can Dent Propel integrate with my current clinic tools?
+6. Will AI automation replace my receptionist?
+7. How are patient inquiries and follow-ups handled?
+8. How can we measure results?
+9. What happens after payment?
+10. What are the contract, billing, and cancellation terms?
+
+Answers should be concise, professional, realistic, and specific.
+
+Don't invent policies.
+
+Use an elegant accordion animation.
+
+---
+
+## SECTION 13 — FINAL CINEMATIC CTA
+
+Create a visually powerful closing section.
+
+This should feel like a premium finale.
+
+Use a deep navy or near-black background.
+
+Add a soft animated radial glow behind the central headline.
+
+Use subtle futuristic grid lines.
+
+### Main Headline
+
+**"Your Dental Practice Deserves a Smarter Growth System."**
+
+### Supporting Description
+
+"Connect marketing, inquiries, follow-up, and operational visibility with a system built around the needs of dental practices."
+
+### Main CTA
+
+**"Start Growing With Dent Propel"**
+
+### Secondary CTA
+
+**"Explore the Growth System"**
+
+Create an elegant hover effect on the primary button.
+
+Make the typography large, bold, and highly readable.
+
+Do not use fake countdown timers or artificial scarcity.
+
+---
+
+## SECTION 14 — PREMIUM FOOTER
+
+Build a beautifully designed footer.
+
+Use a deep navy background in both themes if it produces appropriate contrast.
+
+Include:
+
+Dent Propel Logo
+
+Tagline:
+
+**Driving Dental Growth.**
+
+Short Brand Description:
+
+"Connected dental marketing, lead generation, and automation systems designed for modern dental practices."
+
+Navigation:
+
+- The System
+- Solutions
+- How It Works
+- Our Offer
+- FAQs
+
+Contact:
+
+- Verified business email
+- Verified WhatsApp contact
+- Verified business contact information
+
+Social Media:
+
+- Facebook
+- Instagram
+- LinkedIn
+
+Legal Links:
+
+- Privacy Policy
+- Terms of Service
+- Refund and Cancellation Policy
+
+Use configuration for all unprovided links and contact details.
+
+Do not invent addresses, phone numbers, social handles, or registration details.
+
+---
+
+# 10. CHECKOUT PAGE — PREMIUM WEB3 INSPIRED
+
+Route: `/checkout`
+
+The checkout must be visually consistent with the main website.
+
+However, reduce visual distractions.
+
+A checkout page should prioritize clarity, trust, and frictionless completion rather than maximum animation.
+
+## Checkout Design
+
+Desktop:
+
+Professional two-column layout.
+
+Left:
+
+Clinic information and payment flow.
+
+Right:
+
+Elegant sticky package summary.
+
+Mobile:
+
+Single-column layout with accessible order details.
+
+Use the same premium typography and theme system.
+
+Include a progress indicator:
+
+**Explore → Checkout → Confirmation**
+
+Highlight the current step.
+
+## Checkout Header
+
+Display the Dent Propel wordmark and theme toggle.
+
+Minimize unrelated navigation.
+
+## Main Headline
+
+**"Let's Build a Smarter Growth Process for Your Dental Practice."**
+
+### Subheading
+
+"Complete your clinic details, review your selected system, and continue to secure payment."
+
+## Clinic Details Form
+
+Collect:
+
+1. Doctor or clinic owner's full name
+2. Clinic name
+3. Business email
+4. Phone / WhatsApp number
+5. Clinic city
+6. Clinic website or Instagram page (optional)
+7. Primary business contact (optional)
+
+Use clear field labels.
+
+Use modern floating-label inputs only if they remain reliably accessible.
+
+Inputs should have:
+
+- Excellent contrast
+- Visible borders
+- Clear focus indicators
+- Helpful validation
+- Comfortable mobile sizing
+- Consistent design in all themes
+
+Do not collect patient medical records.
+
+## Package Information
+
+Show the selected:
+
+**Dent Propel Growth System**
+
+Include:
+
+- Package features
+- Scope of service
+- Setup fee
+- Recurring fee
+- Billing period
+- Applicable tax
+- Total payable now
+- Any future recurring obligations
+- Excluded ad spend or software costs
+
+Never hide fees.
+
+Never preselect optional paid add-ons.
+
+The total must be calculated and validated server-side.
+
+## Checkout Summary Card
+
+Create a premium glass-like or solid high-contrast card with:
+
+**Your Dent Propel Growth System**
+
+Clear price breakdown.
+
+Feature summary.
+
+Payment terms.
+
+Visible total.
+
+Use subtle illuminated borders in dark mode.
+
+Use clean borders and soft shadows in light mode.
+
+## Payment Section
+
+Support integration with a real payment provider authorized for the business's country, banking setup, and currency.
+
+Do not invent a payment provider connection.
+
+Never collect raw card data in custom frontend fields.
+
+Use approved hosted checkout or compliant payment components.
+
+Do not place secret API keys in frontend code.
+
+## Payment CTA
+
+**"Confirm & Complete Payment"**
+
+The CTA must clearly indicate the payment action.
+
+For subscriptions, ensure recurring obligations are explicitly disclosed.
+
+## Required Payment States
+
+Implement:
+
+- Ready
+- Processing
+- Successful
+- Failed
+- Canceled
+- Pending
+- Verification error
+
+Never treat client-side navigation alone as proof of payment.
+
+Require server-side payment verification.
+
+Use safe retry and idempotency logic.
+
+If no payment provider is connected, keep the checkout as an explicitly labeled preview.
+
+## Checkout Privacy
+
+Provide:
+
+- Terms acceptance
+- Privacy Policy link
+- Billing agreement
+- Separate optional marketing consent
+
+Do not display security certificates or trust badges unless actually supported.
+
+---
+
+# 11. THANK YOU PAGE — PREMIUM SUCCESS EXPERIENCE
+
+Route: `/thank-you`
+
+This page should be visually beautiful, emotionally positive, and professionally reassuring.
+
+Do not use flashy celebration animations.
+
+Use a refined success animation such as an elegant illuminated checkmark.
+
+## Visual Layout
+
+Center the main success content within a premium background.
+
+Add subtle flowing gradients or soft abstract waves.
+
+In dark mode, use a navy glass card with restrained teal highlights.
+
+In light mode, use a clean white confirmation card.
+
+## Main Heading
+
+**"Welcome to Dent Propel."**
+
+## Supporting Heading
+
+**"Your Dental Practice Growth Journey Begins Here."**
+
+## Description
+
+"Your order has been confirmed. The next step is understanding your clinic's priorities and preparing the onboarding process."
+
+Display this successful-payment wording only after confirmed payment verification.
+
+## Order Confirmation Card
+
+Show:
+
+- Order reference
+- Dental clinic name
+- Selected package
+- Payment status
+- Amount paid
+- Payment date
+- Billing arrangement
+
+Use information supplied by the verified backend order.
+
+## Next Steps
+
+Create a sophisticated three-stage onboarding timeline.
+
+### 01 — Confirmation
+
+"Your order confirmation will be sent to your provided business email."
+
+### 02 — Clinic Discovery
+
+"We'll collect essential information about your practice, marketing priorities, and current workflows."
+
+### 03 — Implementation Planning
+
+"Our team will review the agreed scope and prepare your implementation process."
+
+## Primary CTA
+
+**"Complete Clinic Onboarding"**
+
+## Secondary CTA
+
+**"Contact Dent Propel"**
+
+## Optional CTA
+
+**"Schedule a Kickoff Call"**
+
+Only display a scheduling option if the booking system is actually configured.
+
+If payment is pending, display:
+
+"Your payment is being verified."
+
+If payment failed, display a suitable message and a safe recovery action.
+
+Do not show a fake success screen.
+
+---
+
+# 12. AI AUTOMATION AND N8N INTEGRATION
+
+Design the website to integrate with n8n.
+
+The user operates an automation-focused marketing agency and requires scalable workflows.
+
+Create safe backend integration points.
+
+## Recommended Funnel Workflow
+
+Visitor enters website.
+
+Visitor explores the offer.
+
+Visitor starts checkout.
+
+Clinic details are securely submitted.
+
+Backend creates an order.
+
+Payment gateway processes payment.
+
+Backend verifies payment.
+
+Verified order event triggers n8n.
+
+n8n coordinates:
+
+- Confirmation email
+- Team notification
+- CRM entry
+- Google Sheets entry, if configured
+- Onboarding invitation
+- Follow-up tasks
+
+## Webhook Events
+
+Prepare support for:
+
+`lead.created`
+
+`checkout.started`
+
+`order.payment_verified`
+
+`onboarding.started`
+
+`onboarding.completed`
+
+Events must use appropriate authentication, validated payloads, unique event IDs, and idempotent processing.
+
+Payment-success actions must never depend solely on untrusted browser requests.
+
+Do not expose secret webhook endpoints or credentials in publicly accessible frontend code.
+
+## CRM Data
+
+Track:
+
+- Clinic name
+- Business contact
+- Email
+- Phone
+- City
+- Selected offer
+- Checkout status
+- Verified payment status
+- Onboarding status
+- Created timestamp
+- Lead source / UTM data when available
+
+Use a suitable database with access controls.
+
+Do not transmit payment card details or unnecessary sensitive information.
+
+---
+
+# 13. CONVERSION OPTIMIZATION
+
+The website must be visually premium, but its primary objective is business conversion.
+
+Follow conversion principles:
+
+1. Communicate the offer clearly in the hero.
+2. Show the target audience immediately.
+3. Explain the problem before introducing features.
+4. Demonstrate the connected growth process.
+5. Explain the business value of each component.
+6. Keep CTA labels consistent.
+7. Provide clear pricing and inclusions.
+8. Avoid unnecessary checkout friction.
+9. Make actions obvious on mobile.
+10. Preserve trust and credibility throughout.
+
+## CTA Strategy
+
+Primary CTA throughout:
+
+**"Build My Growth System"**
+
+Offer section CTA:
+
+**"Get My Dent Propel Growth System"**
+
+Checkout CTA:
+
+**"Confirm & Complete Payment"**
+
+Thank-you CTA:
+
+**"Complete Clinic Onboarding"**
+
+All buttons must work.
+
+Do not create decorative buttons without functionality.
+
+---
+
+# 14. RESPONSIVE DESIGN
+
+Create a sophisticated responsive experience.
+
+Test design layouts at:
+
+- 1440px desktop
+- 1280px laptop
+- 1024px tablet landscape
+- 768px tablet
+- 390px mobile
+- 360px small mobile
+
+## Mobile Requirements
+
+- Large readable headings
+- Comfortable paragraph sizes
+- Minimal distracting animations
+- Proper stacked card layout
+- Easy tap targets
+- Clean navigation
+- Readable forms
+- Accessible theme selection
+- Beautiful mobile hero composition
+- No horizontal scrolling
+- No clipped text or buttons
+- Fast image and animation loading
+
+Do not simply shrink the desktop design.
+
+Create thoughtful mobile compositions.
+
+For example, transform the connected growth network into a vertical workflow illustration.
+
+Mobile users should experience the same visual quality without performance problems.
+
+---
+
+# 15. TECHNICAL ARCHITECTURE
+
+Use supported modern tools within Lovable.
+
+Preferred frontend structure:
+
+- React
+- TypeScript
+- Tailwind CSS
+- Reusable component architecture
+- Clean routing
+- Responsive layouts
+- Accessible UI primitives
+- Modern animation system
+
+Use a secure backend where necessary for forms, payments, CRM persistence, and automation.
+
+## Important Components
+
+Create reusable:
+
+- Navbar
+- Logo
+- ThemeSelector
+- HeroSection
+- AmbientBackground
+- GrowthNetworkVisualization
+- ProblemCard
+- GrowthSystemDiagram
+- BentoServiceCard
+- ComparisonSection
+- DashboardPreview
+- AudienceCard
+- ImplementationTimeline
+- TrustSection
+- OfferCard
+- FAQAccordion
+- CTASection
+- Footer
+- CheckoutForm
+- OrderSummary
+- PaymentStatus
+- ThankYouConfirmation
+- OnboardingTimeline
+
+Use consistent design tokens instead of styling components independently.
+
+## Configuration
+
+Create central configurable settings for:
+
+- Brand name: Dent Propel
+- Tagline: Driving Dental Growth.
+- Theme
+- Logo
+- Email
+- WhatsApp
+- Social links
+- Location
+- Service scope
+- Offer pricing
+- Currency
+- Payment terms
+- Legal policies
+- Payment integration
+- Automation webhook
+- Onboarding link
+- Analytics settings
+
+Do not expose secrets.
+
+Do not show unfinished placeholder contact data to customers.
+
+---
+
+# 16. PERFORMANCE AND ACCESSIBILITY
+
+The final website must be visually rich without being slow.
+
+Optimize:
+
+- Image loading
+- Animation performance
+- Code splitting
+- Responsive assets
+- Font delivery
+- Layout stability
+- JavaScript bundle size
+- Accessibility
+- Metadata
+- SEO
+
+Target excellent Core Web Vitals where realistically achievable.
+
+Respect `prefers-reduced-motion`.
+
+Use semantic HTML.
+
+Make all controls keyboard accessible.
+
+Use visible focus styles.
+
+Ensure normal text contrast meets WCAG AA.
+
+Avoid horizontal overflow.
+
+Maintain appropriate touch targets.
+
+Do not let decorative visuals interfere with pointer interactions.
+
+---
+
+# 17. SEO AND WEBSITE METADATA
+
+Page Title:
+
+**Dent Propel | Dental Marketing, Lead Generation & AI Automation**
+
+Meta Description:
+
+"Discover Dent Propel, a connected dental practice growth system combining social media management, digital marketing, lead generation, appointment follow-up, and intelligent automation."
+
+Use appropriate semantic headings.
+
+Implement social sharing metadata.
+
+Use meaningful image alt text.
+
+Make the site suitable for future SEO expansion.
+
+Do not create keyword-stuffed copy.
+
+---
+
+# 18. STRICT DESIGN RULES
+
+Follow these rules throughout the entire project.
+
+### MUST DO
+
+- Use Web3-inspired design.
+- Maintain healthcare professionalism.
+- Support Light, Dark, and System themes.
+- Use large, highly readable typography.
+- Create immersive but restrained animations.
+- Design an impressive hero section.
+- Use custom connected-workflow visuals.
+- Create elegant bento-grid sections.
+- Maintain premium spacing.
+- Use beautiful gradient accents.
+- Keep CTAs visually prominent.
+- Make all three funnel pages consistent.
+- Use the Dent Propel brand exclusively.
+- Focus on selling a connected growth system.
+- Make checkout functional when configured.
+- Build responsive layouts.
+- Maintain a clear conversion journey.
+- Use accurate business claims.
+- Prioritize fast loading and accessibility.
+
+### MUST NOT DO
+
+- Do not create a generic agency template.
+- Do not create a cryptocurrency website.
+- Do not add wallet connection features.
+- Do not use excessive neon.
+- Do not use low-contrast text.
+- Do not create tiny paragraph typography.
+- Do not use giant empty sections.
+- Do not overload the site with particles.
+- Do not create unnecessary 3D assets.
+- Do not use fabricated testimonials.
+- Do not claim guaranteed patient growth.
+- Do not invent prices.
+- Do not create fake checkout functionality.
+- Do not expose credentials.
+- Do not create dead buttons.
+- Do not sacrifice usability for animation.
+- Do not make the website look like a dental treatment clinic.
+- Do not replace the agency's identity with a generic technology brand.
+
+---
+
+# 19. BUILD AND QUALITY ASSURANCE PROCESS
+
+Implement the project in a clear sequence.
+
+## Phase 1 — Design Foundation
+
+Create:
+
+- Color tokens
+- Typography
+- Theme system
+- Navigation
+- Buttons
+- Card styles
+- Motion principles
+- Responsive grid
+
+## Phase 2 — Landing Page
+
+Build the complete landing page with its finished content and visual sections.
+
+Give particular attention to:
+
+- Hero design
+- Connected network visualization
+- Growth system explanation
+- Bento services
+- Offer presentation
+- Final CTA
+
+## Phase 3 — Checkout
+
+Build the connected checkout with form validation, pricing, order summary, and payment readiness.
+
+## Phase 4 — Thank You
+
+Build appropriate confirmed, pending, and failed payment states.
+
+## Phase 5 — Integrations
+
+Configure the necessary database and backend architecture.
+
+Prepare secure payment and n8n integrations.
+
+Use clearly identified setup requirements wherever credentials or real business configuration are missing.
+
+## Phase 6 — Polish
+
+Review:
+
+- Light theme
+- Dark theme
+- System preference behavior
+- Typography readability
+- Animations
+- Responsiveness
+- Navigation
+- Buttons
+- Forms
+- Checkout totals
+- Payment verification
+- Thank-you order status
+- Performance
+- Accessibility
+
+Fix any visible layout issues.
+
+Do not declare live payment integration complete if credentials or verification are missing.
+
+---
+
+# 20. FINAL QUALITY STANDARD
+
+The completed website should feel like an exceptional collaboration between:
+
+- A premium Web3 creative studio
+- An elite healthcare SaaS product team
+- A sophisticated B2B marketing consultancy
+- A professional conversion-focused web agency
+
+The visual identity must be futuristic but not gimmicky.
+
+The layout must be immersive but not confusing.
+
+The typography must be bold but not overwhelming.
+
+The animations must be beautiful but not distracting.
+
+The growth system must be persuasive but not based on false promises.
+
+The checkout must be elegant but transparent and technically secure.
+
+## FINAL CREATIVE DIRECTION
+
+**"Design Dent Propel as a next-generation, Web3-inspired healthcare growth brand that combines the immersive visual sophistication of a premium technology company with the clarity, credibility, and business focus expected by dental professionals."**
+
+## FINAL BRAND IMPRESSION
+
+When a dentist opens the website, they should quickly understand:
+
+1. Dent Propel understands dental practice growth challenges.
+2. Dent Propel offers more than social media management.
+3. Dent Propel connects marketing, leads, follow-ups, and appointment processes.
+4. The website presents a professional, organized, technology-driven business.
+5. The next step toward purchasing the growth system is clear.
+
+Create a genuinely polished, distinctive, fully responsive, three-step sales funnel.
+
+**Brand: DENT PROPEL**
+
+**Tagline: Driving Dental Growth.**
+
+**Final positioning: More Than Marketing. A Connected Growth System for Dental Practices.**
+
+**Now build the complete website, not merely a design description.**
